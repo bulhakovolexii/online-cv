@@ -52,11 +52,11 @@ career-profile:
     title: Career Profile
     summary: |
       A beginner and aspiring front-end developer. Winner of the
-      <a href="https://it-generation.gov.ua/">IT Generation</a> Scholarship.
-      Independent energy auditor of buildings and engineering systems, thermographer.
+      <a href="https://it-generation.gov.ua/">IT Generation</a> Scholarship.<br>
+      Independent energy auditor of buildings and engineering systems, thermographer.<br>
       Lecturer, assistant of the <a href="http://sites.kpi.kharkov.ua/es/HomeE">Department 
       of Electric Power Stations</a> of the National Technical University "Kharkiv Polytechnic
-      Institute" (NTU "KhPI"). Leading engineer of the operational and technical
+      Institute" (NTU "KhPI").<br>Leading engineer of the operational and technical
       department of NTU "KhPI".
 education:
     title: Education
