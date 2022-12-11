@@ -3,130 +3,135 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Olexii Bulhakov
+    tagline: Frontend Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: bulhakovolexii@gmail.com
+    phone: +38(050)280-24-02
+    timezone: Ukraine/Kharkiv Timezone
+    citizenship: 
+    website: bulhakov.dev #do not add http://
+    linkedin: bulhakovolexii
+    xing: 
+    github: bulhakovolexii
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@bulhakovolexii'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: /olexii-bulhakov.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Ukranian
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Russian
+          level: Native
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: English
+          level: Upper-Intermediate, B2
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+        - item: photo video making
+        - item: music production and audio recording
+        - item: guitar and drums
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A beginner and aspiring front-end developer. Winner of the
+      <a href="https://it-generation.gov.ua/">IT Generation</a> Scholarship.
+      Independent energy auditor of buildings and engineering systems, thermographer,
+      lecturer, assistant of the <a href="http://sites.kpi.kharkov.ua/es">Department 
+      of Electric Power Stations</a> of the National Technical University "Kharkiv Polytechnic
+      Institute" (NTU "KhPI"), leading engineer of the operational and technical
+      department of NTU "KhPI".
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelor
+        university: NTU "KhPI", Kharkiv
+        time: Sep 2011 - Jun 2015
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+            - specialty "Electrical Engineering and Electrotechnics"
+            - qualification "junior electrical engineer"
+
+      - degree: Master
+        university: NTU "KhPI", Kharkiv
+        time: Aug 2015 - Jun 2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - specialty "Energy management" (diploma with honors)
+            - qualification "research engineer"
+
+      - degree: Postgraduate
+        university: NTU "KhPI", Kharkiv
+        time: Aug 2015 - Jun 2017
+        details: |
+            - specialty "Power Engineering, Electrical Engineering and Electromechanics"
+            - dissertation topic: "The choice of equipment for power supply of autonomous objects
+            connected in a microgrid"
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Leading engineer of the operational<br>and technical department
+        time: Oct 2021 - Present
+        company: NTU "KhPI", Kharkiv
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
+            - energy audit of buildings, structures and engineering systems of the university
+            - consulting activities within the investment grant of the E5P Fund (project "Higher
+              Education of Ukraine") in the field of energy efficiency of educational, research and
+              support facilities of universities of Ukraine
+      - role: Assistant of the Department of<br>Electric Power Stations
+        time: Oct 2017 - Present
         company: Google, London
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - developing and teaching the courses "Fundamentals of Thermography" and "Energy
+              Management and Audit" in Ukrainian and English
+            - organizing and holding of STEM events
+            - training the winners of the international competition of student research papers "Black
+              Sea Science" (paper's topic "Technical comparison of infrared heaters of longwave
+              range")
       - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+        time: Mar 2017 - Oct 2017
+        company: Leacond-Kharkiv LLC, Kharkiv
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - organizing wholesale deliveries of heat pumps
+            - engineering customer support
+      - role: Energy Systems Engineer
+        time: Jan 2017 - Mar 2017
+        company: Monis Global Service LLC, Kharkiv
+        details: |
+            - organizing wholesale deliveries of heat pumps
+            - engineering customer support
+      - role: Energy manager
+        time: Nov 2015 - Nov 2016
+        company: PF "Golden Section", Kharkiv
+        details: |
+            - sale, installation, commissioning and maintenance of building engineering systems
+            - energy audit
+            - thermal imaging
+      - role: Numerical program control (CNC)<br>machine operator
+        time: Jul 2014 - Sep 2014
+        company: JSC "Zavod Mayak", Zmiiv
+        details: |
+            - performing metalwork on the assembly line
+            - ensuring the continuity of production of household heating appliances
+            - operating CNC laser cutting machine
+            - operating a machine for bending CNC sheet metal
+            - operating CNC coordinate punching machine
 projects:
     title: Projects
     intro: >
@@ -134,88 +139,51 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Hooli-style Popup
+        link: "https://bulhakov.dev/hooli-style-popup/"
+        tagline: "HTML/CSS only responsive landing page with popup menu"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: My Learning Diary
+        link: "https://mylearningdiary.site/"
+        tagline: "A blog with the publication of all the tasks that I did during
+        my studies, and my impressions of the courses I studied."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Basics of Thermography
+        link: "https://basicsofthermography.online/"
+        tagline: "Online course and collection of training materials on thermal photography and video."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Links to scientometric databases:
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "ORCID: iD 0000-0002-3244-420X"
+        link: "https://orcid.org/0000-0002-3244-420X"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Scopus ID: 57220856508"
+        link: "https://www.scopus.com/authid/detail.uri?authorId=57220856508"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Researcher ID: A-7677-2018"
+        link: "https://www.webofscience.com/wos/author/record/A-7677-2018"
+
+      - title: "Google Scholar"
+        link: "https://scholar.google.com/citations?hl=uk&user=Nv5N72UAAAAJ"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: HTML5 & CSS3
+        level: 67%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: JavaScript
+        level: 49%
 
-      - name: Angular
-        level: 98%
+      - name: Git & Github
+        level: 44%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Figma & Photoshop
+        level: 58%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
