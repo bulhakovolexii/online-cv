@@ -36,7 +36,7 @@ sidebar:
           level: Native
 
         - idiom: Russian
-          level: Native
+          level: Fluent
 
         - idiom: English
           level: Upper-Intermediate, B2
@@ -46,28 +46,21 @@ sidebar:
       info:
         - item: photo video making
         - item: music production and audio recording
-        - item: guitar and drums
+        - item: guitar and drums playing
 
 career-profile:
     title: Career Profile
     summary: |
       A beginner and aspiring front-end developer. Winner of the
       <a href="https://it-generation.gov.ua/">IT Generation</a> Scholarship.
-      Independent energy auditor of buildings and engineering systems, thermographer,
-      lecturer, assistant of the <a href="http://sites.kpi.kharkov.ua/es">Department 
+      Independent energy auditor of buildings and engineering systems, thermographer.
+      Lecturer, assistant of the <a href="http://sites.kpi.kharkov.ua/es/HomeE">Department 
       of Electric Power Stations</a> of the National Technical University "Kharkiv Polytechnic
-      Institute" (NTU "KhPI"), leading engineer of the operational and technical
+      Institute" (NTU "KhPI"). Leading engineer of the operational and technical
       department of NTU "KhPI".
 education:
     title: Education
     info:
-      - degree: Bachelor
-        university: NTU "KhPI", Kharkiv
-        time: Sep 2011 - Jun 2015
-        details: |
-            - specialty "Electrical Engineering and Electrotechnics"
-            - qualification "junior electrical engineer"
-
       - degree: Master
         university: NTU "KhPI", Kharkiv
         time: Aug 2015 - Jun 2017
@@ -77,7 +70,7 @@ education:
 
       - degree: Postgraduate
         university: NTU "KhPI", Kharkiv
-        time: Aug 2015 - Jun 2017
+        time: Oct 2017 - Oct 2021
         details: |
             - specialty "Power Engineering, Electrical Engineering and Electromechanics"
             - dissertation topic: "The choice of equipment for power supply of autonomous objects
@@ -94,9 +87,9 @@ experiences:
             - consulting activities within the investment grant of the E5P Fund (project "Higher
               Education of Ukraine") in the field of energy efficiency of educational, research and
               support facilities of universities of Ukraine
-      - role: Assistant of the Department of<br>Electric Power Stations
+      - role: Lecturer/Assistant of the <br> Department of Electric Power Stations
         time: Oct 2017 - Present
-        company: Google, London
+        company: NTU "KhPI", Kharkiv
         details: |
             - developing and teaching the courses "Fundamentals of Thermography" and "Energy
               Management and Audit" in Ukrainian and English
@@ -134,10 +127,6 @@ experiences:
             - operating CNC coordinate punching machine
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Hooli-style Popup
         link: "https://bulhakov.dev/hooli-style-popup/"
@@ -157,17 +146,17 @@ publications:
     intro: |
       Links to scientometric databases:
     papers:
-      - title: "ORCID: iD 0000-0002-3244-420X"
-        link: "https://orcid.org/0000-0002-3244-420X"
-
       - title: "Scopus ID: 57220856508"
         link: "https://www.scopus.com/authid/detail.uri?authorId=57220856508"
+    
+      - title: "Google Scholar"
+        link: "https://scholar.google.com/citations?hl=uk&user=Nv5N72UAAAAJ"
+
+      - title: "ORCID: ID 0000-0002-3244-420X"
+        link: "https://orcid.org/0000-0002-3244-420X"
 
       - title: "Researcher ID: A-7677-2018"
         link: "https://www.webofscience.com/wos/author/record/A-7677-2018"
-
-      - title: "Google Scholar"
-        link: "https://scholar.google.com/citations?hl=uk&user=Nv5N72UAAAAJ"
 
 skills:
     title: Skills &amp; Proficiency
@@ -183,7 +172,7 @@ skills:
         level: 44%
 
       - name: Figma & Photoshop
-        level: 58%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
