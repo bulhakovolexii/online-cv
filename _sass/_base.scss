@@ -175,6 +175,10 @@ p {
     margin-bottom: 60px;
   }
 
+  .section:last-child {
+    margin-bottom: 0px;
+  }
+
   .experiences-section,
   .educations-section {
     .item {

@@ -61,7 +61,7 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: Master
+      - degree: Master's
         university: NTU "KhPI", Kharkiv
         time: Aug 2015 - Jun 2017
         details: |
@@ -77,7 +77,7 @@ education:
             connected in a microgrid"
 
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Leading engineer of the operational<br>and technical department
         time: Oct 2021 - Present
@@ -130,7 +130,7 @@ projects:
     assignments:
       - title: Hooli-style Popup
         link: "https://bulhakov.dev/hooli-style-popup/"
-        tagline: "HTML/CSS only responsive landing page with popup menu"
+        tagline: "HTML/CSS only responsive landing page with popup menu."
 
       - title: My Learning Diary
         link: "https://mylearningdiary.site/"
