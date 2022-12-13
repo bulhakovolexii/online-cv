@@ -11,10 +11,16 @@
         filter: grayscale(1);
         -webkit-filter: greyscale(1);
     }
-   .main-wrapper .time {
+   .main-wrapper {
+      .time {
        float: right;
         color: black !important;
         -webkit-print-color-adjust: exact; 
+        margin-top: 0;
+      }
+      .section {
+      margin-bottom: 20px;
+       }
    }
    .pdf {
          display: none;
@@ -43,6 +49,11 @@
    .fa-inverse:after,
    .fa-inverse:before {
      color: #ffffff !important;
-   }
+   }   
+}
 
+.sidebar-wrapper {
+   a[href]:after {
+      content: none !important;
+    }
 }

@@ -186,9 +186,10 @@ p {
     }
   }
   .upper-row {
-    position: relative;
-    overflow: hidden;
     margin-bottom: 2px;
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
   }
   .job-title,
   .degree {
@@ -197,11 +198,10 @@ p {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 500;
+    flex-grow: 1;
   }
   .time {
-    position: absolute;
-    right: 0;
-    top: 0;
+    flex-shrink: 0;
     color: $text-grey;
   }
   .company,

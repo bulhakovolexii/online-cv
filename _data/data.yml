@@ -79,7 +79,7 @@ education:
 experiences:
     title: Experience
     info:
-      - role: Leading engineer of the operational<br>and technical department
+      - role: Leading engineer of the operational and technical department
         time: Oct 2021 - Present
         company: NTU "KhPI", Kharkiv
         details: |
@@ -87,7 +87,7 @@ experiences:
             - consulting activities within the investment grant of the E5P Fund (project "Higher
               Education of Ukraine") in the field of energy efficiency of educational, research and
               support facilities of universities of Ukraine
-      - role: Lecturer/Assistant of the <br> Department of Electric Power Stations
+      - role: Lecturer/Assistant of the Department of Electric Power Stations
         time: Oct 2017 - Present
         company: NTU "KhPI", Kharkiv
         details: |
@@ -116,7 +116,7 @@ experiences:
             - sale, installation, commissioning and maintenance of building engineering systems
             - energy audit
             - thermal imaging
-      - role: Numerical program control (CNC)<br>machine operator
+      - role: Numerical program control (CNC) machine operator
         time: Jul 2014 - Sep 2014
         company: JSC "Zavod Mayak", Zmiiv
         details: |
