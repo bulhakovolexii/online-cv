@@ -1,4 +1,4 @@
-{% assign sidebar = site.data.data.sidebar %}
+{% assign sidebar = site.data.data-uk.sidebar %}
 <div class="sidebar-wrapper">
 
   <div class="profile-container">
@@ -19,19 +19,19 @@
 
   <div class="lang-container">
     <ul class="lang-list">
-      <li><a href="{{ site.baseurl }}" class="active">EN</a></li>
-      <li><a href="{{ site.baseurl }}/uk">UA</a></li>
+      <li><a href="{{ site.baseurl }}/">EN</a></li>
+      <li><a href="{{ site.baseurl }}/uk" class="active">UA</a></li>
     </ul>
   </div>
 
   {% include contact.html %}
 
   {% if sidebar.education %}
-    {% include education.html %}
+    {% include_relative uk/education.html %}
   {% endif %}
 
-  {% include language.html %}
-  {% include interests.html %}
+  {% include_relative uk/language.html %}
+  {% include_relative uk/interests.html %}
 
   {% if sidebar.about %}
     {% include about.html %}

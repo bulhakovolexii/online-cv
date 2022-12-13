@@ -1,0 +1,21 @@
+---
+layout: default-uk
+permalink: /uk
+---
+
+
+{% include_relative uk/career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include_relative uk/education.html %}
+{% endunless %}
+
+{% include_relative uk/experiences.html %}
+
+{% include_relative uk/projects.html %}
+
+{% include_relative uk/oss-contributions.html %}
+
+{% include_relative uk/publications.html %}
+
+{% include_relative uk/skills.html %}
