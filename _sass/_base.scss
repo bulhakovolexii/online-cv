@@ -84,8 +84,9 @@ p {
   }
 
   .lang-container {
-    padding: 10px 30px 30px 30px;
+    padding: 10px 30px 0px 30px;
     ul {
+      padding: 0px 2px;
       display: flex;
       justify-content: center;
       list-style-type: none;
@@ -94,8 +95,14 @@ p {
       padding-inline-start: 0;
       gap: 10px;
     }
+
+    a:hover {
+      text-decoration: none;
+      border-bottom: 1px solid #fff
+    }
+
     .active {
-      text-decoration: underline;
+      border-bottom: 1px dotted #fff;
     }
   }
   
@@ -179,6 +186,12 @@ p {
   grid-column: span 7;
   background: #fff;
   padding: 60px;
+  a{
+    text-decoration: underline;
+  }
+  a:hover{
+    text-decoration-thickness: 2px;
+  }
   .section-title {
     text-transform: uppercase;
     font-size: 20px;

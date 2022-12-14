@@ -20,10 +20,10 @@ sidebar:
     linkedin: bulhakovolexii
     xing: 
     github: bulhakovolexii
-    telegram: # add your nickname without '@' sign
+    telegram: behemothcat # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@bulhakovolexii'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -103,48 +103,49 @@ experiences:
         details: |
             - організація оптових поставок теплових насосів
             - інженерна підтримка клієнтів
-      - role: Energy Systems Engineer
-        time: Jan 2017 - Mar 2017
-        company: Monis Global Service LLC, Kharkiv
+      - role: Інженер відділу енергетичних систем
+        time: Січ 2017 - Бер 2017
+        company: ООО "Моніс Глобал Сервіс", Харків
         details: |
-            - organizing wholesale deliveries of heat pumps
-            - engineering customer support
-      - role: Energy manager
-        time: Nov 2015 - Nov 2016
-        company: PF "Golden Section", Kharkiv
+            - організація оптових поставок теплових насосів
+            - інженерна підтримка клієнтів
+      - role: Енергоменеджер
+        time: Лис 2015 - Лис 2016
+        company: ПФ "Золотий переріз", Харків
         details: |
-            - sale, installation, commissioning and maintenance of building engineering systems
-            - energy audit
-            - thermal imaging
-      - role: Numerical program control (CNC) machine operator
-        time: Jul 2014 - Sep 2014
-        company: JSC "Zavod Mayak", Zmiiv
+            - продаж, монтаж, пусконалагодження та сервісне обслуговування інженерних
+              систем будівель
+            - енергоаудит
+            - тепловізійна зйомка
+      - role: Оператор верстатів з числовим програмним управлінням (ЧПУ)
+        time: Лип 2014 - Вер 2014<br>Лип 2012 - Вер 2012<br>Лип 2010 - Вер 2010
+        company: АТЗТ "Завод Маяк", Зміїв
         details: |
-            - performing metalwork on the assembly line
-            - ensuring the continuity of production of household heating appliances
-            - operating CNC laser cutting machine
-            - operating a machine for bending CNC sheet metal
-            - operating CNC coordinate punching machine
+            - забезпечення безперервності виробництва побутових опалювальних приладів
+            - виконання слюсарних робіт на збірній лінії
+            - оперування верстатом лазерного різання металу з ЧПУ
+            - оперування верстатом для згинання листового металу з ЧПУ
+            - оперування координатно‑пробивним верстатом з ЧПУ
 projects:
     title: Projects
     assignments:
       - title: Hooli-style Popup
         link: "https://bulhakov.dev/hooli-style-popup/"
-        tagline: "HTML/CSS only responsive landing page with popup menu."
+        tagline: "Адаптивна цільова сторінка лише з HTML/CSS зі спливаючим меню."
 
       - title: My Learning Diary
         link: "https://mylearningdiary.site/"
-        tagline: "A blog with the publication of all the tasks that I did during
-        my studies, and my impressions of the courses I studied."
+        tagline: "Блог з публікацією всіх завдань, які я виконував під час навчання,
+        та моїх вражень від курсів, які я вивчав."
 
       - title: Basics of Thermography
         link: "https://basicsofthermography.online/"
-        tagline: "Online course and collection of training materials on thermal photography and video."
+        tagline: "Онлайн-курс і збірник навчальних матеріалів з термографії."
 
 publications:
     title: Publications
     intro: |
-      Links to scientometric databases:
+      Посилання на наукометричні бази даних:
     papers:
       - title: "Scopus ID: 57220856508"
         link: "https://www.scopus.com/authid/detail.uri?authorId=57220856508"

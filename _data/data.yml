@@ -20,10 +20,10 @@ sidebar:
     linkedin: bulhakovolexii
     xing: 
     github: bulhakovolexii
-    telegram: # add your nickname without '@' sign
+    telegram: behemothcat # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@bulhakovolexii'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -117,7 +117,7 @@ experiences:
             - energy audit
             - thermal imaging
       - role: Numerical program control (CNC) machine operator
-        time: Jul 2014 - Sep 2014
+        time: Jul 2014 - Sep 2014<br>Jul 2012 - Sep 2012<br>Jul 2010 - Sep 2010
         company: JSC "Zavod Mayak", Zmiiv
         details: |
             - performing metalwork on the assembly line
