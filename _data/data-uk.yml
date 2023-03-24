@@ -16,7 +16,7 @@ sidebar:
     phone: +38(050)280-24-02
     timezone: Україна / Харків Timezone
     citizenship: 
-    website: bulhakov.dev #do not add http://
+    website: mylearningdiary.site #do not add http://
     linkedin: bulhakovolexii
     xing: 
     github: bulhakovolexii
@@ -127,11 +127,15 @@ experiences:
             - оперування верстатом для згинання листового металу з ЧПУ
             - оперування координатно‑пробивним верстатом з ЧПУ
 projects:
-    title: Projects
+    title: Проекти
     assignments:
       - title: Hooli-style Popup
         link: "https://bulhakov.dev/hooli-style-popup/"
         tagline: "Адаптивна цільова сторінка лише з HTML/CSS зі спливаючим меню."
+
+      - title: JS-DOM "Pandora Fauna"
+        link: "https://bulhakov.dev/js-dom/"
+        tagline: "Інтерактивне бічне меню що працює без перезапуску сторінки з використанням JS і DOM"
 
       - title: My Learning Diary
         link: "https://mylearningdiary.site/"
@@ -139,11 +143,11 @@ projects:
         та моїх вражень від курсів, які я вивчав."
 
       - title: Basics of Thermography
-        link: "https://basicsofthermography.online/"
+        link: "http://thermography.online/"
         tagline: "Онлайн-курс і збірник навчальних матеріалів з термографії."
 
 publications:
-    title: Publications
+    title: Публікації
     intro: |
       Посилання на наукометричні бази даних:
     papers:
@@ -160,19 +164,64 @@ publications:
         link: "https://www.webofscience.com/wos/author/record/A-7677-2018"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Навички та уміння
 
     toolset:
-      - name: HTML5 & CSS3
+      - name: HTML5
         level: 76%
 
-      - name: JavaScript
+      - name: CSS3
+        level: 76%
+
+      - name: Float, Flex, Grig
+        level: 76%
+
+      - name: BEM methodology
+        level: 76%
+
+      - name: CSS media queries
+        level: 76%
+
+      - name: SCSS & SASS
+        level: 76%
+
+      - name: Bootstrap
+        level: 76%
+
+      - name: JavaScript ES5 & ES6
+        level: 49%
+
+      - name: DOM API
+        level: 49%
+
+      - name: AJAX & Fetch API
+        level: 49%
+
+      - name: OOP Basics
+        level: 49%
+
+      - name: npm, npx, yarn
+        level: 49%
+
+      - name: Jekyll
+        level: 49%
+
+      - name: Wordpress
         level: 49%
 
       - name: Git & Github
         level: 62%
 
       - name: Figma & Photoshop
+        level: 70%
+
+      - name: Visual Studio Code
+        level: 70%
+
+      - name: Prettier
+        level: 70%
+
+      - name: FileZilla
         level: 70%
 
 footer: >

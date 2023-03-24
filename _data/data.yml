@@ -16,7 +16,7 @@ sidebar:
     phone: +38(050)280-24-02
     timezone: Ukraine / Kharkiv Timezone
     citizenship: 
-    website: bulhakov.dev #do not add http://
+    website: mylearningdiary.site #do not add http://
     linkedin: bulhakovolexii
     xing: 
     github: bulhakovolexii
@@ -132,13 +132,17 @@ projects:
         link: "https://bulhakov.dev/hooli-style-popup/"
         tagline: "HTML/CSS only responsive landing page with popup menu."
 
+      - title: JS-DOM "Pandora Fauna"
+        link: "https://bulhakov.dev/js-dom/"
+        tagline: "Interactive side menu without restarting the page using JS and DOM"
+
       - title: My Learning Diary
         link: "https://mylearningdiary.site/"
         tagline: "A blog with the publication of all the tasks that I did during
         my studies, and my impressions of the courses I studied."
 
       - title: Basics of Thermography
-        link: "https://basicsofthermography.online/"
+        link: "http://thermography.online/"
         tagline: "Online course and collection of training materials on thermal photography and video."
 
 publications:
@@ -162,16 +166,61 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: HTML5 & CSS3
+      - name: HTML5
         level: 76%
 
-      - name: JavaScript
+      - name: CSS3
+        level: 76%
+
+      - name: Float, Flex, Grig
+        level: 76%
+
+      - name: BEM methodology
+        level: 76%
+
+      - name: CSS media queries
+        level: 76%
+
+      - name: SCSS & SASS
+        level: 76%
+
+      - name: Bootstrap
+        level: 76%
+
+      - name: JavaScript ES5 & ES6
+        level: 49%
+
+      - name: DOM API
+        level: 49%
+
+      - name: AJAX & Fetch API
+        level: 49%
+
+      - name: OOP Basics
+        level: 49%
+
+      - name: npm, npx, yarn
+        level: 49%
+
+      - name: Jekyll
+        level: 49%
+
+      - name: Wordpress
         level: 49%
 
       - name: Git & Github
         level: 62%
 
       - name: Figma & Photoshop
+        level: 70%
+
+      - name: Visual Studio Code
+        level: 70%
+
+      - name: Prettier
+        level: 70%
+
+      - name: FileZilla
         level: 70%
 
 footer: >
