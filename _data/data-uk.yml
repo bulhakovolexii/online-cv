@@ -191,9 +191,6 @@ skills:
       - name: JavaScript ES5 & ES6
         level: 49%
 
-      - name: DOM API
-        level: 49%
-
       - name: AJAX & Fetch API
         level: 49%
 

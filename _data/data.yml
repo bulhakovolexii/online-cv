@@ -47,6 +47,7 @@ sidebar:
         - item: photo video making
         - item: music production and audio recording
         - item: guitar and drums playing
+        - item: ''
 
 career-profile:
     title: Career Profile
@@ -195,10 +196,7 @@ skills:
 
       - name: AJAX & Fetch API
         level: 49%
-
-      - name: OOP Basics
-        level: 49%
-
+        
       - name: npm, npx, yarn
         level: 49%
 
