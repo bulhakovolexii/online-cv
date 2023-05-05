@@ -129,6 +129,10 @@ experiences:
 projects:
     title: Проекти
     assignments:
+      - title: Hass Dashboard
+        link: "http://hassdashboard.infinityfreeapp.com/"
+        tagline: "Дашборд для управління ІоТ приладами \"розумного будинку\" на React, Redux toolkit та RTK Query."
+
       - title: Hooli-style Popup
         link: "https://bulhakov.dev/hooli-style-popup/"
         tagline: "Адаптивна цільова сторінка лише з HTML/CSS зі спливаючим меню."
@@ -141,10 +145,6 @@ projects:
         link: "https://mylearningdiary.site/"
         tagline: "Блог з публікацією всіх завдань, які я виконував під час навчання,
         та моїх вражень від курсів, які я вивчав."
-
-      - title: Basics of Thermography
-        link: "http://thermography.online/"
-        tagline: "Онлайн-курс і збірник навчальних матеріалів з термографії."
 
 publications:
     title: Публікації
@@ -191,13 +191,25 @@ skills:
       - name: JavaScript ES5 & ES6
         level: 49%
 
+      - name: DOM API
+        level: 49%
+
       - name: AJAX & Fetch API
         level: 49%
-
-      - name: OOP Basics
-        level: 49%
-
+        
       - name: npm, npx, yarn
+        level: 49%
+        
+      - name: React JS
+        level: 49%
+        
+      - name: Redux toolkit
+        level: 49%
+        
+      - name: RTK Query
+        level: 49%
+        
+      - name: AWS EC2
         level: 49%
 
       - name: Jekyll
