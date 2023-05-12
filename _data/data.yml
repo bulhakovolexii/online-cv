@@ -27,16 +27,13 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /olexii-bulhakov.pdf
+    pdf: /CV_Junior Front-end Developer_Olexii Bulhakov_May2023_Eng.pdf
 
     languages:
       title: Languages
       info:
         - idiom: Ukranian
           level: Native
-
-        - idiom: Russian
-          level: Fluent
 
         - idiom: English
           level: Upper-Intermediate, B2
@@ -47,28 +44,20 @@ sidebar:
         - item: photo video making
         - item: music production and audio recording
         - item: guitar and drums playing
-        - item: ''
 
 career-profile:
     title: Career Profile
     summary: |
       A beginner and aspiring front-end developer. Winner of the
-      <a href="https://it-generation.gov.ua/">IT Generation</a> Scholarship.<br>
-      Independent energy auditor of buildings and engineering systems, thermographer.<br>
+      <a href="https://it-generation.gov.ua/">IT Generation</a> Scholarship.
       Lecturer, assistant of the <a href="http://sites.kpi.kharkov.ua/es/HomeE">Department 
       of Electric Power Stations</a> of the National Technical University "Kharkiv Polytechnic
-      Institute" (NTU "KhPI").<br>Leading engineer of the operational and technical
-      department of NTU "KhPI".
+      Institute" (NTU "KhPI").
+      Independent energy auditor of buildings and engineering systems, thermographer.
+
 education:
     title: Education
     info:
-      - degree: Master's
-        university: NTU "KhPI", Kharkiv
-        time: Aug 2015 - Jun 2017
-        details: |
-            - specialty "Energy management" (diploma with honors)
-            - qualification "research engineer"
-
       - degree: Postgraduate
         university: NTU "KhPI", Kharkiv
         time: Oct 2017 - Oct 2021
@@ -77,17 +66,16 @@ education:
             - dissertation topic: "The choice of equipment for power supply of autonomous objects
             connected in a microgrid"
 
+      - degree: Master's
+        university: NTU "KhPI", Kharkiv
+        time: Aug 2015 - Jun 2017
+        details: |
+            - specialty "Energy management" (diploma with honors)
+            - qualification "research engineer"
+
 experiences:
     title: Experience
     info:
-      - role: Leading engineer of the operational and technical department
-        time: Oct 2021 - Present
-        company: NTU "KhPI", Kharkiv
-        details: |
-            - energy audit of buildings, structures and engineering systems of the university
-            - consulting activities within the investment grant of the E5P Fund (project "Higher
-              Education of Ukraine") in the field of energy efficiency of educational, research and
-              support facilities of universities of Ukraine
       - role: Lecturer/Assistant of the Department of Electric Power Stations
         time: Oct 2017 - Present
         company: NTU "KhPI", Kharkiv
@@ -98,44 +86,25 @@ experiences:
             - training the winners of the international competition of student research papers "Black
               Sea Science" (paper's topic "Technical comparison of infrared heaters of longwave
               range")
+              
+      - role: Leading engineer of the operational and technical department
+        time: Oct 2021 - Oct 2022
+        company: NTU "KhPI", Kharkiv
+
       - role: Specialist in heating, ventilation and air conditioning
         time: Mar 2017 - Oct 2017
         company: Leacond-Kharkiv LLC, Kharkiv
-        details: |
-            - organizing wholesale deliveries of heat pumps
-            - engineering customer support
-      - role: Energy Systems Engineer
-        time: Jan 2017 - Mar 2017
-        company: Monis Global Service LLC, Kharkiv
-        details: |
-            - organizing wholesale deliveries of heat pumps
-            - engineering customer support
+
       - role: Energy manager
         time: Nov 2015 - Nov 2016
         company: PF "Golden Section", Kharkiv
-        details: |
-            - sale, installation, commissioning and maintenance of building engineering systems
-            - energy audit
-            - thermal imaging
-      - role: Numerical program control (CNC) machine operator
-        time: Jul 2014 - Sep 2014<br>Jul 2012 - Sep 2012<br>Jul 2010 - Sep 2010
-        company: JSC "Zavod Mayak", Zmiiv
-        details: |
-            - performing metalwork on the assembly line
-            - ensuring the continuity of production of household heating appliances
-            - operating CNC laser cutting machine
-            - operating a machine for bending CNC sheet metal
-            - operating CNC coordinate punching machine
+
 projects:
     title: Projects
     assignments:
       - title: Hass Dashboard
         link: "http://hassdashboard.infinityfreeapp.com/"
         tagline: "Dashboard for managing IoT devices of the \"smart home\" on React, Redux toolkit and RTK Query."
-
-      - title: Hooli-style Popup
-        link: "https://bulhakov.dev/hooli-style-popup/"
-        tagline: "HTML/CSS only responsive landing page with popup menu."
 
       - title: JS-DOM "Pandora Fauna"
         link: "https://bulhakov.dev/js-dom/"
@@ -145,6 +114,35 @@ projects:
         link: "https://mylearningdiary.site/"
         tagline: "A blog with the publication of all the tasks that I did during
         my studies, and my impressions of the courses I studied."
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: HTML
+      - name: CSS
+      - name: JavaScript
+      - name: React.js
+      - name: Redux.js
+      - name: SASS/SCSS
+      - name: Grid Layout
+      - name: Flexbox
+      - name: BEM methodology
+      - name: DOM
+      - name: OOP
+      - name: AWS EC2
+      - name: Figma
+      - name: Git
+      - name: GitHub
+      - name: Node.js
+      - name: npm
+      - name: Webpack
+      - name: AJAX
+      - name: REST
+      - name: jQuery
+      - name: Bootstrap
+      - name: Jekyll
+      - name: Wordpress
 
 publications:
     title: Publications
@@ -163,75 +161,4 @@ publications:
       - title: "Researcher ID: A-7677-2018"
         link: "https://www.webofscience.com/wos/author/record/A-7677-2018"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: HTML5
-        level: 76%
-
-      - name: CSS3
-        level: 76%
-
-      - name: Float, Flex, Grig
-        level: 76%
-
-      - name: BEM methodology
-        level: 76%
-
-      - name: CSS media queries
-        level: 76%
-
-      - name: SCSS & SASS
-        level: 76%
-
-      - name: Bootstrap
-        level: 76%
-
-      - name: JavaScript ES5 & ES6
-        level: 49%
-
-      - name: DOM API
-        level: 49%
-
-      - name: AJAX & Fetch API
-        level: 49%
-        
-      - name: npm, npx, yarn
-        level: 49%
-        
-      - name: React JS
-        level: 49%
-        
-      - name: Redux toolkit
-        level: 49%
-        
-      - name: RTK Query
-        level: 49%
-        
-      - name: AWS EC2
-        level: 49%
-
-      - name: Jekyll
-        level: 49%
-
-      - name: Wordpress
-        level: 49%
-
-      - name: Git & Github
-        level: 62%
-
-      - name: Figma & Photoshop
-        level: 70%
-
-      - name: Visual Studio Code
-        level: 70%
-
-      - name: Prettier
-        level: 70%
-
-      - name: FileZilla
-        level: 70%
-
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
