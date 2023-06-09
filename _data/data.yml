@@ -3,162 +3,153 @@
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Olexii Bulhakov
-    tagline: Frontend Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Olexii Bulhakov
+  tagline: Frontend Developer
+  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: bulhakovolexii@gmail.com
-    phone: +38(050)280-24-02
-    timezone: Ukraine / Kharkiv Timezone
-    citizenship: 
-    website: mylearningdiary.site #do not add http://
-    linkedin: bulhakovolexii
-    xing: 
-    github: bulhakovolexii
-    telegram: behemothcat # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /CV_Junior Front-end Developer_Olexii Bulhakov_May2023_Eng.pdf
+  # Sidebar links
+  email: bulhakovolexii@gmail.com
+  phone: +38 (050) 280-24-02
+  timezone: Ukraine / Kharkiv
+  citizenship:
+  website: mylearningdiary.site #do not add http://
+  linkedin: bulhakovolexii
+  xing:
+  github: bulhakovolexii
+  telegram: behemothcat # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf: /CV_Junior Front-end Developer_Olexii Bulhakov_May2023_Eng.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: Ukranian
-          level: Native
+  languages:
+    title: Languages
+    info:
+      - idiom: Ukranian
+        level: Native
 
-        - idiom: English
-          level: Upper-Intermediate, B2
+      - idiom: English
+        level: Upper-Intermediate, B2
 
-    interests:
-      title: Interests
-      info:
-        - item: photo video making
-        - item: music production and audio recording
-        - item: guitar and drums playing
+  interests:
+    title: Interests
+    info:
+      - item: photo and video making
+      - item: music production and audio recording
+      - item: guitar and drums
 
 career-profile:
-    title: Career Profile
-    summary: |
-      A beginner and aspiring front-end developer. Winner of the
-      <a href="https://it-generation.gov.ua/">IT Generation</a> Scholarship.
-      Lecturer, assistant of the <a href="http://sites.kpi.kharkov.ua/es/HomeE">Department 
-      of Electric Power Stations</a> of the National Technical University "Kharkiv Polytechnic
-      Institute" (NTU "KhPI").
-      Independent energy auditor of buildings and engineering systems, thermographer.
+  title: Career Profile
+  summary: |
+    Winner of the <a href="https://it-generation.gov.ua/">«IT Generation»<a/> scholarship. 
+    Graduate teaching assistant at <a href="http://sites.kpi.kharkov.ua/es/HomeE">
+    Department of Electric Power Stations</a> of National Technical University «Kharkiv 
+    Polytechnic Institute».
 
 education:
-    title: Education
-    info:
-      - degree: Postgraduate
-        university: NTU "KhPI", Kharkiv
-        time: Oct 2017 - Oct 2021
-        details: |
-            - specialty "Power Engineering, Electrical Engineering and Electromechanics"
-            - dissertation topic: "The choice of equipment for power supply of autonomous objects
-            connected in a microgrid"
+  title: Education
+  info:
+    - degree: Postgraduate
+      university: NTU "KhPI", Kharkiv
+      time: Oct 2017 - Oct 2021
+      details: |
+        - Speciality "Power Engineering, Electrical Engineering and Electromechanics"
+        - Dissertation topic: "The choice of equipment for power supply of autonomous objects
+        connected in a microgrid"
 
-      - degree: Master's
-        university: NTU "KhPI", Kharkiv
-        time: Aug 2015 - Jun 2017
-        details: |
-            - specialty "Energy management" (diploma with honors)
-            - qualification "research engineer"
+    - degree: Master's degree
+      university: NTU "KhPI", Kharkiv
+      time: Aug 2015 - Jun 2017
+      details: |
+        - Speciality "Energy management" (diploma with honors)
+        - Qualification "research engineer"
 
 experiences:
-    title: Experience
-    info:
-      - role: Lecturer/Assistant of the Department of Electric Power Stations
-        time: Oct 2017 - Present
-        company: NTU "KhPI", Kharkiv
-        details: |
-            - developing and teaching the courses "Fundamentals of Thermography" and "Energy
-              Management and Audit" in Ukrainian and English
-            - organizing and holding of STEM events
-            - training the winners of the international competition of student research papers "Black
-              Sea Science" (paper's topic "Technical comparison of infrared heaters of longwave
-              range")
-              
-      - role: Leading engineer of the operational and technical department
-        time: Oct 2021 - Oct 2022
-        company: NTU "KhPI", Kharkiv
+  title: Experience
+  info:
+    - role: Graduate teaching assistants
+      time: Oct 2017 - Present
+      company: NTU "KhPI", Kharkiv
+      details: |
+        - developing and teaching courses: "Fundamentals of Thermography” and “Energy Management and Audit” in Ukrainian and English
+        - developing e-learning platform <a href="http://thermography.online/">thermography.online</a>
+        - administrating the website of the youth scientific association
+        <a  href="https://web.kpi.kharkov.ua/energyhub/">"Energy hub"<a/>
 
-      - role: Specialist in heating, ventilation and air conditioning
-        time: Mar 2017 - Oct 2017
-        company: Leacond-Kharkiv LLC, Kharkiv
+    - role: Frontend student
+      time: Oct 2022 - Apr 2023
+      company: Prog.academy, Kyiv
 
-      - role: Energy manager
-        time: Nov 2015 - Nov 2016
-        company: PF "Golden Section", Kharkiv
+    - role: Energy manager
+      time: Nov 2015 - Nov 2016
+      company: PF "Golden Section", Kharkiv
 
 projects:
-    title: Projects
-    assignments:
-      - title: Hass Dashboard
-        link: "http://hassdashboard.infinityfreeapp.com/"
-        tagline: "Dashboard for managing IoT devices of the \"smart home\" on React, Redux toolkit and RTK Query."
+  title: Projects
+  assignments:
+    - title: Hass Dashboard
+      link: "http://hassdashboard.infinityfreeapp.com/"
+      tagline: 'Dashboard for managing IoT devices of "smart home" on React, Redux toolkit and RTK Query'
 
-      - title: JS-DOM "Pandora Fauna"
-        link: "https://bulhakov.dev/js-dom/"
-        tagline: "Interactive side menu without restarting the page using JS and DOM"
+    - title: JS-DOM "Pandora Fauna"
+      link: "https://bulhakov.dev/js-dom/"
+      tagline: "Interactive side menu without restarting the page using JavaScript and DOM"
 
-      - title: My Learning Diary
-        link: "https://mylearningdiary.site/"
-        tagline: "A blog with the publication of all the tasks that I did during
-        my studies, and my impressions of the courses I studied."
+    - title: My Learning Diary
+      link: "https://mylearningdiary.site/"
+      tagline: "A blog with the publication of all the tasks that were done during the studies, and the impressions of the completed courses"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: HTML
-      - name: CSS
-      - name: JavaScript
-      - name: React.js
-      - name: Redux.js
-      - name: SASS/SCSS
-      - name: Grid Layout
-      - name: Flexbox
-      - name: BEM methodology
-      - name: DOM
-      - name: OOP
-      - name: AWS EC2
-      - name: Figma
-      - name: Git
-      - name: GitHub
-      - name: Node.js
-      - name: npm
-      - name: Webpack
-      - name: AJAX
-      - name: REST
-      - name: jQuery
-      - name: Bootstrap
-      - name: Jekyll
-      - name: Wordpress
+  toolset:
+    - name: HTML
+    - name: CSS
+    - name: JavaScript
+    - name: React.js
+    - name: Redux.js
+    - name: SASS/SCSS
+    - name: Grid Layout
+    - name: Flexbox
+    - name: BEM methodology
+    - name: DOM
+    - name: OOP
+    - name: AWS EC2
+    - name: Figma
+    - name: Git
+    - name: GitHub
+    - name: Node.js
+    - name: npm
+    - name: Webpack
+    - name: AJAX
+    - name: REST
+    - name: jQuery
+    - name: Bootstrap
+    - name: Jekyll
+    - name: Wordpress
 
 publications:
-    title: Publications
-    intro: |
-      Links to scientometric databases:
-    papers:
-      - title: "Scopus ID: 57220856508"
-        link: "https://www.scopus.com/authid/detail.uri?authorId=57220856508"
-    
-      - title: "Google Scholar"
-        link: "https://scholar.google.com/citations?hl=uk&user=Nv5N72UAAAAJ"
+  title: Publications
+  intro: |
+    Links to scientometric databases:
+  papers:
+    - title: "Scopus ID: 57220856508"
+      link: "https://www.scopus.com/authid/detail.uri?authorId=57220856508"
 
-      - title: "ORCID: ID 0000-0002-3244-420X"
-        link: "https://orcid.org/0000-0002-3244-420X"
+    - title: "Google Scholar"
+      link: "https://scholar.google.com/citations?hl=uk&user=Nv5N72UAAAAJ"
 
-      - title: "Researcher ID: A-7677-2018"
-        link: "https://www.webofscience.com/wos/author/record/A-7677-2018"
+    - title: "ORCID: ID 0000-0002-3244-420X"
+      link: "https://orcid.org/0000-0002-3244-420X"
+
+    - title: "Researcher ID: A-7677-2018"
+      link: "https://www.webofscience.com/wos/author/record/A-7677-2018"
 
 footer: >
