@@ -51,7 +51,7 @@ career-profile:
     Winner of the <a href="https://it-generation.gov.ua/">«IT Generation»<a/> scholarship. 
     Graduate teaching assistant at <a href="http://sites.kpi.kharkov.ua/es/HomeE">
     Department of Electric Power Stations</a> of National Technical University «Kharkiv 
-    Polytechnic Institute».
+    Polytechnic Institute» (NTU "KhPI").
 
 education:
   title: Education
@@ -67,9 +67,9 @@ education:
     - degree: Master's degree
       university: NTU "KhPI", Kharkiv
       time: Aug 2015 - Jun 2017
-      details: |
-        - Speciality "Energy management" (diploma with honors)
-        - Qualification "research engineer"
+      # details: |
+      #   - Speciality "Energy management" (diploma with honors)
+      #   - Qualification "research engineer"
 
 experiences:
   title: Experience
@@ -86,10 +86,6 @@ experiences:
     - role: Frontend student
       time: Oct 2022 - Apr 2023
       company: Prog.academy, Kyiv
-
-    - role: Energy manager
-      time: Nov 2015 - Nov 2016
-      company: PF "Golden Section", Kharkiv
 
 projects:
   title: Projects

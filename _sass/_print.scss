@@ -1,47 +1,122 @@
 @media print {
-   @page {
-      size: A4;
-   }
+  @page {
+    size: A4;
+  }
+  body {
+    font-size: 11.5pt;
+  }
 
-   body {
-      font-size: 12pt;
-   }
+  a[href]:after {
+    content: none !important;
+  }
 
-   img.avatar {
-      filter: grayscale(1);
-      -webkit-filter: greyscale(1);
-   }
+  ul {
+    padding-inline-start: 20px;
+  }
 
-   .main-wrapper .time {
+  img.avatar {
+    filter: grayscale(1);
+    -webkit-filter: greyscale(1);
+  }
+
+  .fa-stack {
+    display: none;
+  }
+
+  .main-wrapper {
+    .time {
       float: right;
       color: black !important;
       -webkit-print-color-adjust: exact;
-   }
+      margin-top: 0;
+    }
+    .section-title {
+      margin-bottom: 12px;
+      font-weight: 700;
+    }
+    .degree {
+      font-weight: 700;
+    }
+    .job-title {
+      font-weight: 700;
+    }
+    .section {
+      margin-bottom: 12px;
+    }
+    .educations-section {
+      .item {
+        margin-bottom: 12px;
+      }
+    }
+    .experiences-section {
+      .item {
+        margin-bottom: 12px;
+      }
+    }
+    .projects-section {
+      .item {
+        margin-bottom: 12px;
+      }
+    }
+    .publications-section {
+      display: flex;
+      flex-wrap: wrap;
+      .section-title {
+        flex: 1 0 100%;
+      }
+      .intro {
+        display: none;
+      }
+      .item {
+        flex: 1 0 40%;
+        margin-bottom: 12px;
+        margin-right: 12px;
+      }
+    }
+  }
+  .pdf {
+    display: none;
+  }
 
-   .sidebar-wrapper {
-      position: static;
-      float: right;
-      width: 40%;
-      -webkit-print-color-adjust: exact;
-   }
+  .lang-container {
+    display: none;
+  }
 
-   .remove-container.container-block {
-      display: none;
-   }
+  .sidebar-wrapper {
+    position: static;
+    float: right;
+    width: 32%;
+    -webkit-print-color-adjust: exact;
+    .profile-container {
+      padding: 12px 12px 0px 12px;
+    }
+    .contact-list li {
+      margin-bottom: 12px;
+    }
+    .container-block {
+      padding: 12px 12px 0px 12px;
+    }
+    .container-block-title {
+      margin-bottom: 12px;
+    }
+  }
 
-   footer {
-      display: none;
-   }
+  .remove-container.container-block {
+    display: none;
+  }
 
-   .skillset .level-bar-inner {
-      background-color: black !important;
-      -webkit-print-color-adjust: exact;
-   }
+  footer {
+    display: none;
+  }
 
-   .fa-inverse,
-   .fa-inverse:after,
-   .fa-inverse:before {
-      color: #ffffff !important;
-   }
+  .skillset .level-bar-inner {
+    background-color: black !important;
+    -webkit-print-color-adjust: exact;
+  }
 
+  .fa-inverse,
+  .fa-inverse:after,
+  .fa-inverse:before {
+    color: #ffffff !important;
+  }
 }
