@@ -109,6 +109,10 @@
     display: none;
   }
 
+  .skillset {
+    gap: 6px;
+  }
+
   .skillset .level-bar-inner {
     background-color: black !important;
     -webkit-print-color-adjust: exact;
@@ -118,5 +122,9 @@
   .fa-inverse:after,
   .fa-inverse:before {
     color: #ffffff !important;
+  }
+
+  .section.publications-section {
+    display: none;
   }
 }

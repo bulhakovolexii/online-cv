@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: /CV_Junior_Front-end_Developer_Olexii_Bulhakov_May2023_Eng.pdf
+    pdf: /CV_Junior_Front-end_Developer_Olexii_Bulhakov_May2024_Eng.pdf
 
     languages:
       title: Мови
@@ -99,9 +99,9 @@ experiences:
 projects:
     title: Проекти
     assignments:
-      - title: Hass Dashboard
-        link: "http://hassdashboard.infinityfreeapp.com/"
-        tagline: "Дашборд для управління ІоТ приладами \"розумного будинку\" на React, Redux toolkit та RTK Query."
+      - title: Bilux calc
+        link: "https://bulhakov.dev/hass-dashboard/"
+        tagline: "Комерційний проект для техніко-економічної оцінки"
 
       - title: JS-DOM "Pandora Fauna"
         link: "https://bulhakov.dev/js-dom/"

@@ -90,13 +90,13 @@ experiences:
 projects:
   title: Projects
   assignments:
-    - title: Hass Dashboard
-      link: "http://hassdashboard.infinityfreeapp.com/"
-      tagline: 'Dashboard for managing IoT devices of "smart home" on React, Redux toolkit and RTK Query'
+    - title: Bilux calc
+      link: "https://bulhakov.dev/hass-dashboard/"
+      tagline: "Commercial project of an engineering calculator for feasibility assessment"
 
-    - title: JS-DOM "Pandora Fauna"
-      link: "https://bulhakov.dev/js-dom/"
-      tagline: "Interactive side menu without restarting the page using JavaScript and DOM"
+    - title: Hass Dashboard
+      link: "https://bulhakov.dev/hass-dashboard/"
+      tagline: 'Dashboard for managing IoT devices of "smart home" on React, Redux toolkit and RTK Query'
 
     - title: My Learning Diary
       link: "https://mylearningdiary.site/"
