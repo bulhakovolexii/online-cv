@@ -100,7 +100,7 @@ projects:
     title: Проекти
     assignments:
       - title: Bilux calc
-        link: "https://bulhakov.dev/hass-dashboard/"
+        link: "https://bulhakov.dev/bilux-calc/"
         tagline: "Комерційний проект для техніко-економічної оцінки"
 
       - title: JS-DOM "Pandora Fauna"

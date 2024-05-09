@@ -27,7 +27,7 @@ sidebar:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf: /CV_Junior_Front-end_Developer_Olexii_Bulhakov_May2023_Eng.pdf
+  pdf: /CV_Junior_Front-end_Developer_Olexii_Bulhakov_May2024_Eng.pdf
 
   languages:
     title: Languages
@@ -91,7 +91,7 @@ projects:
   title: Projects
   assignments:
     - title: Bilux calc
-      link: "https://bulhakov.dev/hass-dashboard/"
+      link: "https://bulhakov.dev/bilux-calc/"
       tagline: "Commercial project of an engineering calculator for feasibility assessment"
 
     - title: Hass Dashboard
