@@ -95,7 +95,7 @@ projects:
       tagline: "Commercial project of an engineering calculator for feasibility assessment"
 
     - title: Hass Dashboard
-      link: "https://bulhakov.dev/hass-dashboard/"
+      link: "https://hassdashboard.bulhakov.dev/hass-dashboard/"
       tagline: 'Dashboard for managing IoT devices of "smart home" on React, Redux toolkit and RTK Query'
 
     - title: My Learning Diary
