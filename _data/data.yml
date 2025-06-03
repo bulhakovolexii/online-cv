@@ -49,7 +49,7 @@ career-profile:
   title: Career Profile
   summary: |
     Winner of the <a href="https://it-generation.gov.ua/">«IT Generation»<a/> scholarship. 
-    Graduate teaching assistant at <a href="http://sites.kpi.kharkov.ua/es/HomeE">
+    Graduate teaching assistant at <a href="https://web.kpi.kharkov.ua/es">
     Department of Electric Power Stations</a> of National Technical University «Kharkiv 
     Polytechnic Institute» (NTU "KhPI").
 
@@ -66,7 +66,7 @@ education:
 
     - degree: Master's degree
       university: NTU "KhPI", Kharkiv
-      time: Aug 2015 - Jun 2017
+      time: Aug 2011 - Jun 2017
       # details: |
       #   - Speciality "Energy management" (diploma with honors)
       #   - Qualification "research engineer"
@@ -84,7 +84,7 @@ experiences:
       company: NTU "KhPI", Kharkiv
       details: |
         - development and maintenance of the <a href="https://github.com/bulhakovolexii/khpi-university-hub">“KHPI University Hub”</a> WordPress theme, used by default on over 150 websites of NTU “KhPI” university departments.
-        - developing e-learning platform <a href="http://thermography.online/">thermography.online</a>
+        - developing e-learning platform <a href="https://thermography.bulhakov.dev/">thermography.online</a>
         - administrating the website of the youth scientific association
         <a  href="https://web.kpi.kharkov.ua/energyhub/">"Energy hub"</a>
 
@@ -100,7 +100,7 @@ projects:
       tagline: "A WordPress child theme based on University Hub by WEN Themes, redesigned to match the style of NTU «Kharkiv Polytechnic Institute»."
 
     - title: Hass Dashboard
-      link: "https://hassdashboard.bulhakov.dev/hass-dashboard/"
+      link: "https://hass-dashboard.bulhakov.dev/hass-dashboard/"
       tagline: 'Dashboard for managing IoT devices of "smart home" on React, Redux toolkit and RTK Query'
 
 skills:
