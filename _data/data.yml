@@ -16,7 +16,7 @@ sidebar:
   phone: +38 (050) 280-24-02
   timezone: Ukraine / Kharkiv
   citizenship:
-  website: mylearningdiary.site #do not add http://
+  website: #do not add http://
   linkedin: bulhakovolexii
   xing:
   github: bulhakovolexii
@@ -74,18 +74,19 @@ education:
 experiences:
   title: Experience
   info:
+    - role: Intern front-end developer
+      time: Jul 2024 - Aug 2024
+      company: EPAM Systems, Ukraine
+      details: |
+        - Teachers Internship is an all-Ukrainian comprehensive internship program for school and university teachers from experienced experts of ERAM, the leading IT market company in Ukraine, and the IT Ukraine Association.
     - role: Graduate teaching assistants
       time: Oct 2017 - Present
       company: NTU "KhPI", Kharkiv
       details: |
-        - developing and teaching courses: "Fundamentals of Thermography” and “Energy Management and Audit” in Ukrainian and English
+        - development and maintenance of the <a href="https://github.com/bulhakovolexii/khpi-university-hub">“KHPI University Hub”</a> WordPress theme, used by default on over 150 websites of NTU “KhPI” university departments.
         - developing e-learning platform <a href="http://thermography.online/">thermography.online</a>
         - administrating the website of the youth scientific association
-        <a  href="https://web.kpi.kharkov.ua/energyhub/">"Energy hub"<a/>
-
-    - role: Frontend student
-      time: Oct 2022 - Apr 2023
-      company: Prog.academy, Kyiv
+        <a  href="https://web.kpi.kharkov.ua/energyhub/">"Energy hub"</a>
 
 projects:
   title: Projects
