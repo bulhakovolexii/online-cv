@@ -94,13 +94,13 @@ projects:
       link: "https://bulhakov.dev/bilux-calc/"
       tagline: "Commercial project of an engineering calculator for feasibility assessment"
 
+    - title: KhPI Univercity Hub
+      link: "https://github.com/bulhakovolexii/khpi-university-hub"
+      tagline: "A WordPress child theme based on University Hub by WEN Themes, redesigned to match the style of NTU «Kharkiv Polytechnic Institute»."
+
     - title: Hass Dashboard
       link: "https://hassdashboard.bulhakov.dev/hass-dashboard/"
       tagline: 'Dashboard for managing IoT devices of "smart home" on React, Redux toolkit and RTK Query'
-
-    - title: My Learning Diary
-      link: "https://mylearningdiary.site/"
-      tagline: "A blog with the publication of all the tasks that were done during the studies, and the impressions of the completed courses"
 
 skills:
   title: Skills &amp; Proficiency
