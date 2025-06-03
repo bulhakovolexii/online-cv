@@ -84,7 +84,7 @@ experiences:
       company: NTU "KhPI", Kharkiv
       details: |
         - development and maintenance of the <a href="https://github.com/bulhakovolexii/khpi-university-hub">“KHPI University Hub”</a> WordPress theme, used by default on over 150 websites of NTU “KhPI” university departments.
-        - developing e-learning platform <a href="https://thermography.bulhakov.dev/">thermography.online</a>
+        - developing e-learning platform <a href="https://thermography.bulhakov.dev/">"thermography.online"</a>
         - administrating the website of the youth scientific association
         <a  href="https://web.kpi.kharkov.ua/energyhub/">"Energy hub"</a>
 
@@ -100,7 +100,7 @@ projects:
       tagline: "A WordPress child theme based on University Hub by WEN Themes, redesigned to match the style of NTU «Kharkiv Polytechnic Institute»."
 
     - title: Hass Dashboard
-      link: "https://hass-dashboard.bulhakov.dev/hass-dashboard/"
+      link: "https://hass-dashboard.bulhakov.dev/"
       tagline: 'Dashboard for managing IoT devices of "smart home" on React, Redux toolkit and RTK Query'
 
 skills:
